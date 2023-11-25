@@ -1,3 +1,3 @@
 # Python
 
-This resporiites include basic to advance python 
+This repository include basic skill to advance skill of python 
